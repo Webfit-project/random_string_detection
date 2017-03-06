@@ -6,7 +6,7 @@ random string detection in javascript for short and long string, initialy develo
 To install randomstring, use [npm](http://github.com/npm/npm):
 
 ```
-npm install randomstring
+npm install random-string-detection
 ```
 
 ## Usage
