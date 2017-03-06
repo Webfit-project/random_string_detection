@@ -1,0 +1,27 @@
+{
+  "name": "random-string-detection",
+  "version": "0.0.1",
+  "description": "A random string detector.",
+  "main": "detector.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Webfit-project/random_string_detection"
+  },
+  "keywords": [
+    "detector",
+    "random",
+    "string",
+    "short",
+    "long",
+    "sentence",
+    "text",
+    "alpha",
+    "numeric"
+  ],
+  "author": "Webfit - https://www.webfit.fr",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/Webfit-project/random_string_detection/issues"
+  },
+  "homepage": "https://github.com/Webfit-project/random_string_detection"
+}
